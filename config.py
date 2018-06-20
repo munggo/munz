@@ -1,0 +1,3 @@
+# SLACK API TOKEN token
+TOKEN = 'xoxb-1234567890-YasdefdffewOZc14zITLK'
+

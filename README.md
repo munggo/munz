@@ -1,5 +1,5 @@
-To add a plugin
-Create a file in the *munz/plugins/* directory.
+## To add a plugin
+Create a file in the **munz/plugins/** directory.
 
 ```
 import asyncio, random
